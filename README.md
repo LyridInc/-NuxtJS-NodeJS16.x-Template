@@ -67,3 +67,10 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+<a href="https://app.lyrid.io/login?one-click-deploy=true&origin=github&repository-url=https://github.com/LyridInc/NextJS-Node16.x-Template.git&env=empty&project-type=nextjs&repo-name=NextJS-Node16.x-Template">
+  <button>
+    <img src="/public/assets/svg/ocd_deploy_to_lyrid.svg" style="height: 50px; width:200px;"/>
+  </button>
+</a>
+
